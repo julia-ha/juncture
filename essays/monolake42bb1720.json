@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#f149ab09-1af2-47cd-9102-dba2c932955d"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "limestone formations",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/268fc432b6b6cf31118632daf281b98492ea16da1625a33e21e3fa7011b01c04",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:287.9579772949219,240.1364288330078,76.12887573242188,46.00685119628906"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#1f536874-4b53-410c-802f-f28333817d3d"
   }
 ]
