@@ -1,7 +1,7 @@
 <param ve-config 
        title="Mono Lake"
        author="JSTOR Labs"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mono_Lake_Tufa.JPG/640px-Mono_Lake_Tufa.JPG" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mono_Lake_Tufa.JPG/640px-Mono_Lake_Tufa.JPG" 
        layout="vertical">
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
