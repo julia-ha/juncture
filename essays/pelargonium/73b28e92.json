@@ -4,7 +4,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "ANNOTATION 2",
+        "value": "annotation test",
         "purpose": "commenting"
       }
     ],
@@ -13,30 +13,10 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:209.13137817382812,280.6929931640625,93.31820678710938,90.30368041992188"
+        "value": "xywh=pixel:269.9296569824219,180.60140991210938,83.64193725585938,73.09980773925781"
       }
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#0ee7c0a1-0da8-4e49-92c1-d07ce4c62f72"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "annotation 1",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://free.iiifhosting.com/iiif/fe959e731266dc1ed7a476ff305ad5b091f1aa5aedfa1bc365483a16ddf9d786",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:303.7311096191406,178.38095092773438,74.53567504882812,73.96537780761719"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#73f56585-0a04-4eea-a8a1-584d4c71aa55"
+    "id": "#3742f08e-c152-4365-ade7-4b20ffbe440d"
   }
 ]
