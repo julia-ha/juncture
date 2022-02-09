@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "ANNOTATION 2",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/fe959e731266dc1ed7a476ff305ad5b091f1aa5aedfa1bc365483a16ddf9d786",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:209.13137817382812,280.6929931640625,93.31820678710938,90.30368041992188"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#0ee7c0a1-0da8-4e49-92c1-d07ce4c62f72"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "annotation 1",
         "purpose": "commenting"
       }
