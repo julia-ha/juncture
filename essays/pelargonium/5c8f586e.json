@@ -38,5 +38,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#88e8dc53-edb9-40a8-bcfd-634df4abe647"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "annotation 3",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/a77225be5738e20031eed652b283ccf816afeedf94b8caae8e3989c17096186e",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2744.272705078125,149.5460662841797,750.25537109375,785.2020416259766"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#3c0f2c71-f989-4af3-b856-c457a1fe2fbc"
   }
 ]
