@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "ok",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/8725b5e6fc0c0c595266f83cbc450876dbe8d2ddc951a976c541165a59681b6c",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:288.5362854003906,552.7904663085938,238.90597534179688,243.18902587890625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c117dd78-7c92-4d5b-98d7-cb9f0fa3f49e"
+  }
+]
