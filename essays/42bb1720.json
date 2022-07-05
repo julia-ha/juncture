@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "lake",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/268fc432b6b6cf31118632daf281b98492ea16da1625a33e21e3fa7011b01c04",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:450.312255859375,217.20680236816406,200.8604736328125,95.50297546386719"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#91a6cb80-66ff-4158-a829-bdf55300135e"
+  }
+]
